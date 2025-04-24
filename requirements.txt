@@ -1,0 +1,14 @@
+# For windows 
+#tensorflow==2.17.0
+#tesnorboard
+# ******$$$$$$$$$$$$$$$$$$$$
+##for mac os 
+tensorflow-macos
+tensorflow-metal
+tensorflow-tensorboard 
+numpy
+pandas
+scikit-learn
+matplotlib
+streamlit
+protobuf==3.20.*
