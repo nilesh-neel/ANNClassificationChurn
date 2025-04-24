@@ -1,5 +1,5 @@
 # For windows 
-tensorflow
+tensorflow==2.17.0
 tesnorboard
 # ******$$$$$$$$$$$$$$$$$$$$
 ##for mac os 
